@@ -2,7 +2,7 @@
 
 [![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-output-example.svg)](https://travis-ci.org/logstash-plugins/logstash-output-example)
 
-This is a plugin for [Logstash](https://github.com/elastic/logstash).
+This is a plugin for [Logstash](https://github.com/elastic/logstash). It is originally written by [rdharrison2](https://github.com/rdharrison2/logstash-filter-sip). This plugin is tested with Logstash 6.x.
 
 It is fully free and fully open source. The license is Apache 2.0, meaning you are pretty much free to use it however you want in whatever way.
 
